@@ -2,4 +2,4 @@ Héctor has spent his career building the kind of developer tools that change ho
 
 Today he’s founder and CEO of [Wallfacer](https://wallfacer.ai), the cross-platform control plane for AI-driven software development. Wallfacer gives small teams the ability to direct and audit hundreds of AI coding agents with the same rigor Fortune 500 companies apply to human engineers — turning five-person startups into engineering orgs that operate like 500. 
 
-Before Wallfacer, Héctor was a founding engineer at Groupthink, building real-time AI collaboration tools in React and React Native. Originally from Puerto Rico, he’s now based in the Bay Area, where he still tinkers on systems for fun — from a backyard observatory for deep-sky astrophotography to a rooftop plane tracker. 
+Before Wallfacer, Héctor was a founding engineer at Groupthink, building real-time AI collaboration tools in React and React Native. Originally from Puerto Rico, he’s now based in Scottsdale, AZ, where he still tinkers on systems for fun — from a backyard observatory for deep-sky astrophotography to a rooftop plane tracker. 
